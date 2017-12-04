@@ -1,8 +1,8 @@
 {
-    "name": "gowno",
+    "name": "example name app",
     "version": "1.0",
-    "devDependencies": {
-	 "electron": "^1.4.3",
-	 "electron-packager": "^8.1.0"
-	 }
+     "devDependencies": {
+        "electron": "^1.4.3",
+        "electron-packager": "^8.1.0"
+    }
 }
